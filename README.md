@@ -13,7 +13,7 @@ However, not all data have specific data visualization tool on the oSPARC platfo
 | Data Type on SPARC                                | Dataset Count | Associated oSPARC Module/Service | Action Required             |
 |---------------------------------------------------|---------------|----------------------------------|-----------------------------|
 | SCKAN Database                                    | Various       | X                                | Created one                 |
-| Anatomical Models                                 | 40            | "+  -"                           | Created one                 |
+| Anatomical Models                                 | 40            |  +  -                            | Created one                 |
 | Navigate SPARC Portal Datasets                    |               | X                                | Created one                 |
 | Datasets                                          |               |                                  |                             |
 | - Microscopy                                      | 100           | V                                | Tutorial                    |
@@ -23,7 +23,7 @@ However, not all data have specific data visualization tool on the oSPARC platfo
 | - Connectivity                                    | 52            | V                                | Tutorial                    |
 | - Histology                                       | 35            | -                                | -                           |
 | - Spatial Transcriptomics                         | 22            | -                                | -                           |
-| - Expression; Expression Characterization; Transcriptomics | 22  | "+  -"                           | Update + Add a UI           |
+| - Expression; Expression Characterization; Transcriptomics | 22  | +  -                             | Update + Add a UI           |
 | - Other                                           | <20 each      | -                                | -                           |
 
 
@@ -38,3 +38,9 @@ However, not all data have specific data visualization tool on the oSPARC platfo
 
 
 ## Solution: 
+
+* Documentation
+* Upgrade by adding module to extract data directly from database to module
+* Develop novel oSPARC services
+* Create GUI to the services to redure the need for computational skills
+* Develop novel oSPARC modules

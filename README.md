@@ -1,4 +1,4 @@
-# oSPARC for SPARC Portal data
+# 
 
 # Introduction
 

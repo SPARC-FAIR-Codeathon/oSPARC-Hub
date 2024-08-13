@@ -66,15 +66,21 @@ that are accessible via the oSPARC platform.
 
 #### App 1: Visualize Anatomical Modules Demonstration
 
+Tutorial : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/blob/main/Apps/Tutorial%20for%20:Transcriptomics%20data%20visualization.md
+
+Source code : [https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Transcriptomics%20data%20visualization](https://github.com/SPARC-FAIR-Codeathon/2024-team-5/blob/main/Apps/Tutorial%20for%20%3AVisualize%20Anatomical%20Modules.md)
+
+#### App 2: Transcriptomics data visualization
 This is an App for transcriptomics data analysis and visualization.
 
 Tutorial : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/blob/main/Apps/Tutorial%20for%20:Transcriptomics%20data%20visualization.md
 
 Source code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Transcriptomics%20data%20visualization
 
-#### App 2: Transcriptomics data visualization
 #### App 3: Visualize SCKAN datadase data
+Tutorial : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/blob/main/Apps/Tutorial%20for%20%3A%20Visualize%20SCKAN%20datadase%20data.md
 
+Source code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Visualize%20SCKAN%20datadase%20data
 ## oSPARC Services
 
 ### Service 1: File Format Converter

@@ -65,6 +65,13 @@ that are accessible via the oSPARC platform.
 ## oSPARC Applications
 
 #### App 1: Visualize Anatomical Modules Demonstration
+
+This is an App for transcriptomics data analysis and visualization.
+
+Tutorial : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/blob/main/Apps/Tutorial%20for%20:Transcriptomics%20data%20visualization.md
+
+Source code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Transcriptomics%20data%20visualization
+
 #### App 2: Transcriptomics data visualization
 #### App 3: Visualize SCKAN datadase data
 

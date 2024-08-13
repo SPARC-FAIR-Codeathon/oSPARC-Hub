@@ -1,16 +1,17 @@
-# oSPARCHUB : An Extensible ETL Framework for Streamlining the SPARC Ecosystem
- ![image](https://github.com/user-attachments/assets/e2c126c1-2649-4f06-9cf6-2923b4dc9d0d)
+# oSPARC Hub : An Extensible ETL Framework for Streamlining the SPARC Ecosystem
+
+![License Badge](https://img.shields.io/badge/license-MIT-blue.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Version](https://img.shields.io/badge/version-0.1.0-blue) 
+
+<br/>
+<a href="https://github.com/SPARC-FAIR-Codeathon/2024-team-5">
+<image src="https://github.com/appukuttan-shailesh/testData/blob/master/SPARC2024/oSPARCHub_logo.png?raw=true" height="200px" /></a>
+<br/><br/>
 
 
 # Introduction
-The Sparc Database provides multiple datasets . mainly Anatomical models, Neural Connectivity data on the SCKAN database , Physiological and electrophysiological data, genomics data
-And many other.
-The Sparc datasets are divided across different websites, and the data usually requires a preprocessing step before visualization.
-Additionally, many models are not directly usable but instead require a lot of preliminary work to be done by the end-user before any usable insight can be gained
+The SPARC Database offers a variety of datasets, including anatomical models, neural connectivity data available on the SCKAN database, physiological and electrophysiological data, genomics data, and more. These datasets are spread across different websites and typically require preprocessing before they can be visualized. Additionally, many models are not immediately usable and require significant preliminary work by the end-user to extract meaningful insights.
 
-oSPARC is a platform provided by SPARC, it provides Services , Code templated and modules to manage multiple SPARC datatypes 
-
-However, not all data have specific data visualization tool on the oSPARC platform
+oSPARC is a platform provided by SPARC that offers services, code templates, and modules for managing various SPARC data types. However, not all datasets have dedicated visualization tools available on the oSPARC platform.
 
 | Data Type on SPARC                                | Dataset Count | Associated oSPARC Module/Service | Action Required             |
 |---------------------------------------------------|---------------|----------------------------------|-----------------------------|
@@ -29,89 +30,100 @@ However, not all data have specific data visualization tool on the oSPARC platfo
 | - Other                                           | <20 each      | -                                | -                           |
 
 
-## Introduction to oSPARC Hub
+## Presenting oSPARC Hub
 
-The oSPARC Hub framework is a collection of sparc pipelines, modules and Application  developed to fill the gaps in the oSPARC platform.
-It integrates at first a pipeline to navigate the datasets available on the SPARC portal directly from the platform.
-Depending on the target data type, 3 Application are available to access and use data on the SCKAN database; anatomical models on SPARC Portal, and Genomics datasets on the portal 
-Additionally multiple modules were developed to process various data types
+The oSPARC Hub framework is a comprehensive suite of SPARC pipelines, modules, and applications designed to enhance the capabilities of the oSPARC platform. It introduces an integrated pipeline that allows users to navigate datasets directly from the SPARC portal within the platform.
+
+Depending on the data type, there are three specialized applications available: one for accessing and utilizing data on the SCKAN database, another for exploring anatomical models on the SPARC Portal, and a third for working with genomics datasets. In addition, several modules have been developed to efficiently process various data types, ensuring seamless integration and usability.
 
 ![image](https://github.com/user-attachments/assets/4c1fc6c6-ae96-40bd-b8ca-f77873d2ef1c)
 
 
-In total We devloped 3 oSPARC Application and 6 Modules that are availabel on the oSPARC platform 
+In total, we have developed:
+- 3 oSPARC Application,  and 
+- 6 oSPARC Services 
+
+that are accessible via the oSPARC platform. 
 
 
 ![image](https://github.com/user-attachments/assets/8402bf82-d38f-40e5-95e4-f3586637a615)
 
  
-## Documentations
+## oSPARC Applications
 
-### 1. App : Visualize Anatomical Modules Demonstration
+#### App 1: Visualize Anatomical Modules Demonstration
+#### App 2: Transcriptomics data visualization
+#### App 3: Visualize SCKAN datadase data
 
-This app visualize Anatomical Scafford 3D models. 
+## oSPARC Services
 
-Source Code : [Apps/Visualize Anatomical Modules](https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Visualize%20Anatomical%20Modules)
-
-### 2. App : Transcriptomics data visualization
-
-This app analyse and visualize transcriptomics data.
-
-Source Code : [Apps/Transcriptomics data visualization](https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Transcriptomics%20data%20visualization)
-
-### 3. App: Visualize SCKAN datadase data
-
-This app allow access and data manipulation from the SCKAN database
-
-Source Code : [Apps/Visualize SCKAN datadase data](https://github.com/SPARC-FAIR-Codeathon/2024-team-5/tree/main/Apps/Visualize%20SCKAN%20datadase%20data)
-
- 
-###  4. Module : File Format Converter
-
+### Service 1: File Format Converter
 This module allows conversion of files between various formats such as CSV, JSON, YAML, XLS, XLSX, NWB (Neurodata Without Borders) and many others.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-1
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308896.svg)](https://doi.org/10.5281/zenodo.13308896)
 
-Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-1
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #1: File Format Converter. Zenodo. https://doi.org/10.5281/zenodo.13308896
 
-###  5. Module : VTK Converter
-
+### Service 2: VTK Converter
 This module converts .vtk files to their .stl and .obj equivalents, which have wider support with visualization libraries.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-2
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308927.svg)](https://doi.org/10.5281/zenodo.13308927)
 
-Source Code :https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-2
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #2: VTK Converter. Zenodo. https://doi.org/10.5281/zenodo.13308927
 
-###  6.  Module : Visualize 3D Model
-
+### Service 3: Visualize 3D Model
 This module offers a quick and simple visualization of 3D scaffold models.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-3
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308931.svg)](https://doi.org/10.5281/zenodo.13308931)
 
-Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-3
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #3: Visualize 3D Model. Zenodo. https://doi.org/10.5281/zenodo.13308931
 
-###  7. Module : Fetch Scaffold From SPARC Portal
-
+### Service 4: Fetch Scaffold From SPARC Portal
 This module can fetch scaffold .vtk file from SPARC Portal for specified datasets.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-4
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308937.svg)](https://doi.org/10.5281/zenodo.13308937)
 
-Source Code :https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-4
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #4: Fetch Scaffold From SPARC Portal. Zenodo. https://doi.org/10.5281/zenodo.13308937
 
-### 8. Module :Tabular Data Viewer
-
+### Service 5: Tabular Data Viewer
 This module enables users to view tabular data fromw within study.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-5
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308941.svg)](https://doi.org/10.5281/zenodo.13308941)
 
-Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-5
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #5: Tabular Data Viewer. Zenodo. https://doi.org/10.5281/zenodo.13308941
 
-###  9.  Module : Transcriptomics Data Explorer
-
+### Service 6: Transcriptomics Data Explorer
 This module allows users to explore and visualize transcriptomic data.
+<br/><br/>
+<b>Dedicated GitHub Repo:</b> https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-6
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13308944.svg)](https://doi.org/10.5281/zenodo.13308944)
 
-Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-6
+<b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #6: Transcriptomics Data Explorer. Zenodo. https://doi.org/10.5281/zenodo.13308944
 
+
+## Deployment Status: Services
+
+This service is awaiting deployment to oSPARC production. The GitHub actions fail, as we do not have the required permissions for the `build` stage:
+
+> /home/scu/.venv/bin/python3: can't open file '/home/scu/.venv/bin/ooil': [Errno 13] Permission denied
+
+Service has been deployed and tested locally via:
+```
+make publish-local
+```
 
 
 ## Team Members
-Shailesh Appukuttan; Indian Institute of Technology Bombay, Mumbai, India
-
-Hiba Ben Aribi;  University of Tunis El Manar, Tunis, Tunisia
-
-Fynn Rievers; Tilburg University, Tilburg, The Netherlands
-
+- **Shailesh Appukuttan** - Aix-Marseille Université, CNRS, INT, Marseille, France - [@appukuttan-shailesh](https://github.com/appukuttan-shailesh)
+- **Hiba Ben Aribi** - University of Tunis El Manar, Tunis, Tunisia
+ - [@HibaBenAribi](https://github.com/HibaBenAribi)
+- **Fynn Rievers** - Tilburg University, Tilburg, The Netherlands - [@schrievicode](https://github.com/schrievicode)
 
 
-
-
+## Have an issue or question?
+Please open an issue [here](https://github.com/SPARC-FAIR-Codeathon/2024-team-5/issues).

@@ -39,3 +39,9 @@ Additionally multiple modules were developed to process various data types
 ![image](https://github.com/user-attachments/assets/4c1fc6c6-ae96-40bd-b8ca-f77873d2ef1c)
 
 
+In total We devloped 3 oSPARC Application and 6 Modules that are availabel on the oSPARC platform 
+
+
+![image](https://github.com/user-attachments/assets/8402bf82-d38f-40e5-95e4-f3586637a615)
+
+ 

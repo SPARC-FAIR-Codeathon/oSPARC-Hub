@@ -58,9 +58,9 @@ In total, we have developed:
 
 that are accessible via the oSPARC platform. 
 
+![image](assets/screenshots/ListServices.png)
 
 ![image](https://github.com/user-attachments/assets/8402bf82-d38f-40e5-95e4-f3586637a615)
-
  
 ## oSPARC Applications
 

@@ -1,0 +1,10 @@
+pandas
+gseapy
+bioinfokit
+matplotlib
+warnings
+seaborn
+warnings
+ipywidgets
+IPython
+numpy

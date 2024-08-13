@@ -7,8 +7,21 @@
 <image src="https://github.com/appukuttan-shailesh/testData/blob/master/SPARC2024/oSPARCHub_logo.png?raw=true" height="200px" /></a>
 <br/><br/>
 
+## Video Overview
 
-# Introduction
+[![webinar_preview](https://github.com/appukuttan-shailesh/testData/blob/master/SPARC2024/Slide1.png?raw=true)](https://youtu.be/K5eAg9lYgkc)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Presenting oSPARC Hub](#presenting-osparc-hub)
+- [oSPARC Applications](#osparc-applications)
+- [oSPARC Services](#osparc-services)
+- [Deployment Status](#deployment-status)
+- [License](#license)
+- [Team Members](#team-members)
+
+
+## Introduction
 The SPARC Database offers a variety of datasets, including anatomical models, neural connectivity data available on the SCKAN database, physiological and electrophysiological data, genomics data, and more. These datasets are spread across different websites and typically require preprocessing before they can be visualized. Additionally, many models are not immediately usable and require significant preliminary work by the end-user to extract meaningful insights.
 
 oSPARC is a platform provided by SPARC that offers services, code templates, and modules for managing various SPARC data types. However, not all datasets have dedicated visualization tools available on the oSPARC platform.
@@ -106,9 +119,9 @@ This module allows users to explore and visualize transcriptomic data.
 <b>Citation: </b> Appukuttan, S., Benaribi, H., & Rievers, F. (2024). oSPARC Service #6: Transcriptomics Data Explorer. Zenodo. https://doi.org/10.5281/zenodo.13308944
 
 
-## Deployment Status: Services
+## Deployment Status
 
-This service is awaiting deployment to oSPARC production. The GitHub actions fail, as we do not have the required permissions for the `build` stage:
+The services are awaiting deployment to oSPARC production. The GitHub actions fail, as we do not have the required permissions for the `build` stage:
 
 > /home/scu/.venv/bin/python3: can't open file '/home/scu/.venv/bin/ooil': [Errno 13] Permission denied
 
@@ -117,6 +130,8 @@ Service has been deployed and tested locally via:
 make publish-local
 ```
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Team Members
 - **Shailesh Appukuttan** - Aix-Marseille Université, CNRS, INT, Marseille, France - [@appukuttan-shailesh](https://github.com/appukuttan-shailesh)

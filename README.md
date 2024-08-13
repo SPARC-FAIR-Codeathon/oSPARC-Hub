@@ -50,12 +50,31 @@ In total We devloped 3 oSPARC Application and 6 Modules that are availabel on th
 1. App : Visualize Anatomical Modules Demonstration
 2. App : Transcriptomics data visualization
 3. App: Visualize SCKAN datadase data
-4. Module : 1
-5. Module : 2
-6. Module : 3
-7. Module : 4
-8. Module : 5
-9. Module : 6
+4. Module : File Format Converter
+This module allows conversion of files between various formats such as CSV, JSON, YAML, XLS, XLSX, NWB (Neurodata Without Borders) and many others.
+Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-1
+
+6. Module : VTK Converter
+This module converts .vtk files to their .stl and .obj equivalents, which have wider support with visualization libraries.
+Source Code :https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-2
+
+7. Module : Visualize 3D Model
+This module offers a quick and simple visualization of 3D scaffold models.
+Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-3
+
+8. Module : Fetch Scaffold From SPARC Portal
+This module can fetch scaffold .vtk file from SPARC Portal for specified datasets.
+Source Code :https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-4
+
+11. Module :Tabular Data Viewer
+This module enables users to view tabular data fromw within study.
+Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-5
+
+12. Module : Transcriptomics Data Explorer
+This module allows users to explore and visualize transcriptomic data.
+Source Code : https://github.com/SPARC-FAIR-Codeathon/2024-team-5-service-6
+
+
 
 ## Team Members
 Shailesh Appukuttan; Indian Institute of Technology Bombay, Mumbai, India

@@ -45,3 +45,25 @@ In total We devloped 3 oSPARC Application and 6 Modules that are availabel on th
 ![image](https://github.com/user-attachments/assets/8402bf82-d38f-40e5-95e4-f3586637a615)
 
  
+## Documentations
+
+1. App : Visualize Anatomical Modules Demonstration
+2. App : Transcriptomics data visualization
+3. App: Visualize SCKAN datadase data
+4. Module : 1
+5. Module : 2
+6. Module : 3
+7. Module : 4
+8. Module : 5
+9. Module : 6
+
+## Team Members
+Shailesh Appukuttan; Indian Institute of Technology Bombay, Mumbai, India
+Hiba Ben Aribi;  University of Tunis El Manar, Tunis, Tunisia
+
+Fynn Rievers; Tilburg University, Tilburg, The Netherlands
+
+
+
+
+

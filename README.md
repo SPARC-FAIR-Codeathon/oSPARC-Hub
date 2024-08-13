@@ -1,12 +1,14 @@
-# 
+# oSPARCHUB : An Extensible ETL Framework for Streamlining the SPARC Ecosystem
+ ![image](https://github.com/user-attachments/assets/e2c126c1-2649-4f06-9cf6-2923b4dc9d0d)
+
 
 # Introduction
+The Sparc Database provides multiple datasets . mainly Anatomical models, Neural Connectivity data on the SCKAN database , Physiological and electrophysiological data, genomics data
+And many other.
+The Sparc datasets are divided across different websites, and the data usually requires a preprocessing step before visualization.
+Additionally, many models are not directly usable but instead require a lot of preliminary work to be done by the end-user before any usable insight can be gained
 
-## Problem
-
-The data available on sparc:
-SCKAN
-SPARC Portal
+oSPARC is a platform provided by SPARC, it provides Services , Code templated and modules to manage multiple SPARC datatypes 
 
 However, not all data have specific data visualization tool on the oSPARC platform
 
@@ -27,20 +29,13 @@ However, not all data have specific data visualization tool on the oSPARC platfo
 | - Other                                           | <20 each      | -                                | -                           |
 
 
+## Introduction to oSPARC Hub
 
-| Task                                | Associated oSPARC Module/Service | Action Required |
-|-------------------------------------|----------------------------------|-----------------|
-| Data Management                     |                                  |                 |
-| - Tabular files                     | X                                | Created one     |
-| - 3D files                          | X                                | Created one     |
+The oSPARC Hub framework is a collection of sparc pipelines, modules and Application  developed to fill the gaps in the oSPARC platform.
+It integrates at first a pipeline to navigate the datasets available on the SPARC portal directly from the platform.
+Depending on the target data type, 3 Application are available to access and use data on the SCKAN database; anatomical models on SPARC Portal, and Genomics datasets on the portal 
+Additionally multiple modules were developed to process various data types
+
+![image](https://github.com/user-attachments/assets/4c1fc6c6-ae96-40bd-b8ca-f77873d2ef1c)
 
 
-
-
-## Solution: 
-
-* Documentation
-* Upgrade by adding module to extract data directly from database to module
-* Develop novel oSPARC services
-* Create GUI to the services to redure the need for computational skills
-* Develop novel oSPARC modules

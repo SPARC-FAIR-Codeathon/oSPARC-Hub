@@ -67,6 +67,7 @@ that are accessible via the oSPARC platform.
 ### App 1: Visualize Anatomical Modules Demonstration
 
 <b>Tutorial: </b> https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/Apps/Tutorial%20for%20%3AVisualize%20Anatomical%20Modules.md
+
 <b>Source Code: </b>  https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/tree/main/Apps/Visualize%20Anatomical%20Modules
 
 ### App 2: Transcriptomics data visualization

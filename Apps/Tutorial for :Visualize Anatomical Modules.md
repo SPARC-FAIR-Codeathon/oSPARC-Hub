@@ -1,25 +1,29 @@
 # App : Visualize Anatomical Modules
-This app allows you to access data fromm the SCKAN database.
-The results include a table, a simplified body map illustrating the neurons between the regions, and a simplified plot illustration the intermidiate regions.
 
 ## Step 1
 Openthe osparc service on the osparc platform 
 
-![image](https://github.com/user-attachments/assets/d8a3d4cd-4c5e-4256-8b13-6726b061414b)
+![image](https://github.com/user-attachments/assets/b18de798-df95-4e8d-b291-88fb1af99174)
+
 
 ## Step 2 
 
-Define target data or check the demonstration checkbox  and click on submit button. 
+Define data source 
+The application requires as input a VTK file
+3 option are available , the user can either import its own VTK file by clicking on the upload button in the “ import vtk file section”
+Pr he/she can visualize SPARC PORTAL datasets; for that the target specie and organ are required. After clicking on the submit button  a list of sparc datasets that corresponds to the selection will be displayed.
+For first time user a demo option is available
+![image](https://github.com/user-attachments/assets/bd341524-6c25-4d90-a075-932a16cef711)
 
-![image](https://github.com/user-attachments/assets/c587374b-5a2a-4f91-a8bc-e165daa88632)
+
+![image](https://github.com/user-attachments/assets/8c31ab72-64f0-4977-beca-40ed40b4ef67)
+
 
 ## outputs
-The results include a table, a simplified body map illustrating the neurons between the regions, and a simplified plot illustration the intermidiate regions.
+After defining the preferred dataset id the 3D model will be generated.
 
-![image](https://github.com/user-attachments/assets/33b4d11f-6adb-481b-9cdc-5468fb4e3a3f)
+The user can observe this model from any angle, as holding left-click rotates it, the mouse wheel zooms in and out, and right-click moves the model itself.
 
-![image](https://github.com/user-attachments/assets/b3546ed4-3eb0-4baa-ad60-027dad5d0e77)
 
-![image](https://github.com/user-attachments/assets/384f9e1c-022d-4228-9748-271194fc9000)
-
+![image](https://github.com/user-attachments/assets/f0dbde37-5482-46eb-8214-ae2c5713493e)
 

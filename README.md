@@ -31,14 +31,23 @@ oSPARC is a platform provided by SPARC that offers services, code templates, and
 
 The oSPARC Hub framework is a comprehensive suite of SPARC pipelines, modules, and applications designed to enhance the capabilities of the oSPARC platform. It introduces an integrated pipeline that allows users to navigate datasets directly from the SPARC portal within the platform.
 
-Depending on the data type, there are three specialized applications available: one for accessing and utilizing data on the SCKAN database, another for exploring anatomical models on the SPARC Portal, and a third for working with genomics datasets. In addition, several modules have been developed to efficiently process various data types, ensuring seamless integration and usability.
-
 ![image](https://github.com/user-attachments/assets/4c1fc6c6-ae96-40bd-b8ca-f77873d2ef1c)
 
+Depending on the data type, there are three specialized applications available: one for accessing and utilizing data on the SCKAN database, another for exploring anatomical models on the SPARC Portal, and a third for working with genomics datasets. In addition, several modules have been developed to efficiently process various data types, ensuring seamless integration and usability.
 
-In total, we have developed: 3 oSPARC Application And  6 oSPARC Services, that are accessible on the oSPARC platform. 
+In total, we have developed: 
 
+-3 oSPARC Application available on the oSPARC platform. 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37dd82d6-00c2-4cc2-ba56-300698aafabf" width="700"  />
+</p>
+
+-And  6 oSPARC Services, that are accessible via the oSPARC platform. 
+
+<p align="center">
+  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/assets/screenshots/ListServices.png" width="700"  />
+</p>
 
 ## oSPARC Applications
 

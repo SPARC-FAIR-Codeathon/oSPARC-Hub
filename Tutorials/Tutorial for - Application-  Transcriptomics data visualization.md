@@ -26,7 +26,9 @@ You should search for the service with the name "Transcriptomics data visualizat
 ### Step 2
 
 Next you need to click on the "open" button
-![Application screenshot - Transcriptomics data visualization](Tutorials/Figures/Application%20screenshot%20-%20Transcriptomics%20data%20visualization%20(1).JPG)
+
+![image]([https://github.com/user-attachments/assets/2765c879-b10a-4fe5-8275-b18b5e7f1e4b](https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main2/Tutorials/Figures/Application%20screenshot%20-%20Transcriptomics%20data%20visualization%20(1).JPG))
+
 
 ![image](https://github.com/user-attachments/assets/2765c879-b10a-4fe5-8275-b18b5e7f1e4b)
 

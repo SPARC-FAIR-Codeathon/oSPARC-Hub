@@ -21,6 +21,7 @@
 
 [![webinar_preview](https://github.com/appukuttan-shailesh/testData/blob/master/SPARC2024/Slide1.png?raw=true)](https://youtu.be/K5eAg9lYgkc)
 <br/><br/>
+
 ## Introduction
 The SPARC Database offers a variety of datasets, including anatomical models, neural connectivity data available on the SCKAN database, physiological and electrophysiological data, genomics data, and more. These datasets are spread across different websites and typically require preprocessing before they can be visualized. Additionally, many models are not immediately usable and require significant preliminary work by the end-user to extract meaningful insights.
 
@@ -48,6 +49,7 @@ In total, we have developed:
   <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/assets/screenshots/ListServices.png" width="700"  />
 </p>
 <br/><br/>
+
 ## oSPARC-Hub Applications
 
 | Name                                 | Utility                                                           | Tutorial                                                                                           | Source Code                                                                                                              | Zenodo                                                                                                    |

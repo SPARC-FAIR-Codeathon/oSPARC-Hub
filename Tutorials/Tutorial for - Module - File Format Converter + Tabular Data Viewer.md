@@ -4,20 +4,27 @@
 ## Step 1 :
 Search for the modules names in the service catalog.
 
-![List_Modules_All](https://github.com/user-attachments/assets/d9f9fcb7-702a-4a07-bb09-952bb04bb281)
+<p align="center">
+  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/Tutorials/Figures/service%20catalog.png" width="800"  />
+</p>
 
 
 ## Step 2 :
 
 Add you file as input to the module. then link it to the second module to send the output to it.
 
-![Module_1_5_scene1](https://github.com/user-attachments/assets/b31d081b-a86c-4764-8e1c-05c256221d4c)
+<p align="center">
+  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/Tutorials/Figures/Module%20%20screenshot%20-%20File%20Format%20Converter.png" width="800"  />
+</p>
+
 
 ## Step 3: 
 
 Click on the node to open the user interface and see the created file.
 
-![Uploading Module_1_5_scene2.png…]()
+<p align="center">
+  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/Tutorials/Figures/Module%20%20screenshot%20-%20VTK%20Converter.png" width="800"  />
+</p>
 
 
 

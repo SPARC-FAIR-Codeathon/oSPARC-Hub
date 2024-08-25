@@ -1,5 +1,0 @@
-sckan_compare
-numpy
-pandas 
-ipywidgets
-IPython

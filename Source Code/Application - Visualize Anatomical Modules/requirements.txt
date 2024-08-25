@@ -1,0 +1,11 @@
+open3d
+vtk
+numpy-stl
+pywavefront
+ipywidgets
+IPython
+numpy
+plotly
+pandas
+stl
+os

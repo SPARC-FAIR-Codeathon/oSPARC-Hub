@@ -27,6 +27,7 @@ The SPARC Database offers a variety of datasets, including anatomical models, ne
 
 oSPARC is a platform provided by SPARC that offers services, code templates, and modules for managing various SPARC data types. However, not all datasets have dedicated visualization tools available on the oSPARC platform.
 <br/><br/>
+
 ## Presenting oSPARC Hub
 
 The oSPARC Hub framework is a comprehensive suite of SPARC pipelines, modules, and applications designed to enhance the capabilities of the oSPARC platform. It introduces an integrated pipeline that allows users to navigate datasets directly from the SPARC portal within the platform.
@@ -46,7 +47,7 @@ In total, we have developed:
 -And  6 oSPARC Services, that are accessible via the oSPARC platform. 
 
 <p align="center">
-  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/assets/screenshots/ListServices.png" width="700"  />
+  <img src="https://github.com/SPARC-FAIR-Codeathon/oSPARC-Hub/blob/main/Asssets/ListServices.png" width="700"  />
 </p>
 <br/><br/>
 

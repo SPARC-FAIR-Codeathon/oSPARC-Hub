@@ -20,6 +20,8 @@ The app is accessible on the oSPARc Platform at : osparc.io
 
 You should search for the service with the name "Transcriptomics data visualization ", as in figure bellow:
 
+[image](Tutorials/Figures/Application screenshot - Transcriptomics data visualization (1).JPG)
+
 ![image](https://github.com/user-attachments/assets/8b1931fa-9cb0-4f60-bd77-d2427ded3549)
 
 ### Step 2

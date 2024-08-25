@@ -3,7 +3,7 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Version](https://img.shields.io/badge/version-0.1.0-blue) 
 
 <br/>
-<a href="https://github.com/SPARC-FAIR-Codeathon/2024-team-5">
+<a href="https://github.com/SPARC-FAIR-Codeathon/2024-team-5" align="center">
 <image src="https://github.com/appukuttan-shailesh/testData/blob/master/SPARC2024/oSPARCHub_logo.png?raw=true" height="200px" /></a>
 <br/><br/>
 

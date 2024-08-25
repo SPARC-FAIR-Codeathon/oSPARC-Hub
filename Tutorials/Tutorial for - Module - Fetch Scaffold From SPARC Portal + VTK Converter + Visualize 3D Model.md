@@ -15,10 +15,21 @@ Search for the modules names in the service catalog.
 
 
 ## Step 2 :
-
+Workflow of nodes
 ![Module_2_3_4_scene1](https://github.com/user-attachments/assets/b7772373-642d-46c7-81ad-abcc2fb98bac)
 
 ## Step 3: 
+Define the dataset id as input for the module "Fetch Scaffold From SPARC Portal".
+
+![Module  screenshot - Fetch Scaffold From SPARC Portal](https://github.com/user-attachments/assets/8afaefac-2314-4aa9-acd7-60593ea33c93)
+
+## Step 4: 
+
+link the output of the node to the VTK converter node
+
+![Module_2_3_4_scene3](https://github.com/user-attachments/assets/8153a347-f991-43e4-a95c-ca5e1d7ee130)
+
+## Step 5: 
 
 Click on the node to open the user interface and visualize the 3D anatomical model.
 
